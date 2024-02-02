@@ -9,6 +9,7 @@
     "nativescript-vue": "~2.9.3"
   },
   "devDependencies": {
+    "@nativescript/preview-cli": "1.0.12",
     "@nativescript/types": "~8.6.0",
     "@nativescript/webpack": "~5.0.18",
     "@types/node": "~17.0.21",
